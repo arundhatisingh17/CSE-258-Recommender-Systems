@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# course-provided data and material (not redistributed)
+hw1/beer_50000.json
+hw1/fantasy_10000.json.gz
+hw1/recommendation.html
+hw1/regression.html
+hw1/hw1_runner.ipynb
+hw1/classification.ipynb
+/hw1_stub.ipynb
+
+# local tooling
+.claude/
